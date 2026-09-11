@@ -1,5 +1,4 @@
-# 💫 About Me:
-Currently Learning System Architecture <br>Have a good grip in backend development<br>
+
 
 
 ## 🌐 Socials:
